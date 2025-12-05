@@ -8,7 +8,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91630182-d0a0-41bc-a7ee-11305cbf34bf" name="Changes" comment="" />
+    <list default="true" id="91630182-d0a0-41bc-a7ee-11305cbf34bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EventHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EventHub/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_EventHub.Tests" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_EventHub.Tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_EventHub.Tests" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_EventHub.Tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/EventHub.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/EventHub.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/EventHub.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/EventHub.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/logs/log-20251205.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/logs/log-20251205.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/ref/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/ref/EventHub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/refint/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/refint/EventHub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/EventHub.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/EventHub.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +54,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/EventHub" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/EventHub.Tests/Controllers/EventsControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
@@ -73,10 +109,10 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="36IkBO7ERDVCIkNGrFb6jhEdAIN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -86,19 +122,39 @@
   "keyToString": {
     ".NET Launch Settings Profile.EventHub: http.executor": "Run",
     ".NET Launch Settings Profile.EventHub: https.executor": "Run",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Azure - Web App.Azure - Web App: EventHub .executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.EventHub: https">
+  <component name="RunManager" selected=".NET Launch Settings Profile.EventHub: http">
+    <configuration name="Azure - Web App: EventHub " type="AzureWebAppDeploy">
+      <option name="appServicePlanName" value="ASP-StudentAppRG2-plan" />
+      <option name="appServicePlanResourceGroupName" value="StudentAppRG" />
+      <option name="openBrowser" value="true" />
+      <option name="operatingSystem" value="Windows" />
+      <option name="pricingSize" value="F1" />
+      <option name="pricingTier" value="Free" />
+      <option name="projectConfiguration" value="Release" />
+      <option name="projectPlatform" value="Any CPU" />
+      <option name="publishableProjectPath" value="$PROJECT_DIR$/EventHub/EventHub.csproj" />
+      <option name="region" value="germanywestcentral" />
+      <option name="resourceGroupName" value="StudentAppRG2" />
+      <option name="subscriptionId" value="c048e834-e53f-4953-9e22-487aaaf5717a" />
+      <option name="webAppName" value="eventhubapp-salem" />
+      <method v="2" />
+    </configuration>
     <configuration name="EventHub: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/EventHub/EventHub.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net9.0" />
@@ -139,8 +195,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764701338322</updated>
-      <workItem from="1764701339894" duration="59281000" />
+      <workItem from="1764701339894" duration="63908000" />
+      <workItem from="1764968961138" duration="1435000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1764916126643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764916126643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +216,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

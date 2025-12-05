@@ -161,6 +161,10 @@
               "target": "Package",
               "version": "[9.0.3, )"
             },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Moq": {
               "target": "Package",
               "version": "[4.20.72, )"
