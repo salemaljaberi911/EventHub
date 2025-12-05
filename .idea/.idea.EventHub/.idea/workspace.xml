@@ -10,39 +10,16 @@
   <component name="ChangeListManager">
     <list default="true" id="91630182-d0a0-41bc-a7ee-11305cbf34bf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EventHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EventHub/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_EventHub.Tests" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_EventHub.Tests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_EventHub.Tests" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_EventHub.Tests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/Debug/net9.0/EventHub.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/EventHub.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/EventHub.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub.Tests/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/EventHub.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/EventHub.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/EventHub.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Debug/net9.0/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/logs/log-20251205.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/logs/log-20251205.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/EventHub.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/ref/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/ref/EventHub.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/refint/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Debug/net9.0/refint/EventHub.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/EventHub.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/EventHub.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventHub/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/bin/Release/net9.0/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Release/net9.0/EventHub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/bin/Release/net9.0/EventHub.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Release/net9.0/EventHub.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/bin/Release/net9.0/EventHub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/bin/Release/net9.0/EventHub.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/EventHub.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/EventHub.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/EventHub.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/EventHub.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/EventHub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/EventHub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/EventHub.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/ref/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/ref/EventHub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/refint/EventHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventHub/obj/Release/net9.0/refint/EventHub.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +115,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.EventHub: http">
+  <component name="RunManager" selected="Azure - Web App.Azure - Web App: EventHub ">
     <configuration name="Azure - Web App: EventHub " type="AzureWebAppDeploy">
       <option name="appServicePlanName" value="ASP-StudentAppRG2-plan" />
       <option name="appServicePlanResourceGroupName" value="StudentAppRG" />
@@ -196,7 +173,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764701338322</updated>
       <workItem from="1764701339894" duration="63908000" />
-      <workItem from="1764968961138" duration="1435000" />
+      <workItem from="1764968961138" duration="3314000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -206,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764916126643</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1764970682293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764970682293</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +202,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
